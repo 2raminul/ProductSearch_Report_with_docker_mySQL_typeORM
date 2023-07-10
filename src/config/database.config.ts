@@ -19,7 +19,7 @@ module.exports = {
   username,
   password,
   database,
-  synchronize: false, //make it true
+  synchronize: true, //make it true
   timezone: 'utc',
   charset: 'utf8mb4_unicode_ci',
   extra: {
